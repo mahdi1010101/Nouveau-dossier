@@ -1,0 +1,20 @@
+#facebookIcon {
+  color: #6c757d !important;
+  &:hover {
+    color: #0d6efd !important;
+  }
+}
+
+#twitterIcon {
+  color: #6c757d !important;
+  &:hover {
+    color: #0d6efd !important;
+  }
+}
+
+#InstaIcon {
+  color: #6c757d !important;
+  &:hover {
+    color: #0d6efd !important;
+  }
+}
